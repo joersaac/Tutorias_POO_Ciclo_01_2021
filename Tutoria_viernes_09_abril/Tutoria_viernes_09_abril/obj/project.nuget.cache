@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8BUfakfYTNQ6tsPuFU4J4HKASUEUo/mJKx8Z29RmxLkGqGjewEFYzbaDjTboiCQrbdTMJSJY7aLYInkcIP6cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOAQUIN SANTOS\\Documents\\Tutorias\\Tutoria_viernes_09_abril\\Tutoria_viernes_09_abril\\Tutoria_viernes_09_abril.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOAQUIN SANTOS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
