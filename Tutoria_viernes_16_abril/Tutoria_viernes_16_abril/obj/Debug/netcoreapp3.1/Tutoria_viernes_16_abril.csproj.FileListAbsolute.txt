@@ -1,0 +1,13 @@
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.exe
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.deps.json
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.runtimeconfig.json
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.runtimeconfig.dev.json
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.dll
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\bin\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.pdb
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.csprojAssemblyReference.cache
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.AssemblyInfoInputs.cache
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.AssemblyInfo.cs
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.csproj.CoreCompileInputs.cache
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.dll
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.pdb
+C:\Users\JOAQUIN SANTOS\Documents\Tutorias\Tutoria_viernes_16_abril\Tutoria_viernes_16_abril\obj\Debug\netcoreapp3.1\Tutoria_viernes_16_abril.genruntimeconfig.cache

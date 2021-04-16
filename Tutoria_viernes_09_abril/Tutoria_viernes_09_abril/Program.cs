@@ -64,6 +64,7 @@ namespace Tutoria_viernes_09_abril
                 }
 
                 Console.WriteLine(obj.ToString());
+                Console.WriteLine(typeof(obj));
             });
 
         }
