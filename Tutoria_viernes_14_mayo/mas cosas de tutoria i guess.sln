@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mas cosas de tutoria i guess", "mas cosas de tutoria i guess\mas cosas de tutoria i guess.csproj", "{70A23E5B-00EA-402A-818C-0880F28A2659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A23E5B-00EA-402A-818C-0880F28A2659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A23E5B-00EA-402A-818C-0880F28A2659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A23E5B-00EA-402A-818C-0880F28A2659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A23E5B-00EA-402A-818C-0880F28A2659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A527E965-6AF1-4056-B14A-C939B6F313AC}
+	EndGlobalSection
+EndGlobal

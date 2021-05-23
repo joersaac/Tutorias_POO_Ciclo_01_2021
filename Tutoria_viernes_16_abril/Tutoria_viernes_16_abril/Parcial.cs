@@ -6,7 +6,7 @@ namespace Tutoria_viernes_16_abril
 {
     class Parcial : Evaluacion
     {
-        protected int numQuestions, correctAnswers;
+        private int numQuestions, correctAnswers;
         public Parcial(string name,int numQuestions, int correctAnswers) 
             : base(name, 0.20)
         {
